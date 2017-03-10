@@ -41,6 +41,7 @@ namespace CommonLibrary
             public static string 更新日志清空 { get; } = "B006";
 
         }
+
         /// <summary>
         /// 异步通信的头说明，以字母H开头，后面跟I,G,K,L,M
         /// </summary>
